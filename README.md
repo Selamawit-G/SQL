@@ -12,7 +12,6 @@ This project is a comprehensive workbook developed as part of a Data Technician 
 - [Introduction](#introduction)
 - [Tasks Overview](#tasks-overview)
 - [SQL Practical Exercises](#sql-practical-exercises)
-- [Database Design Essay](#database-design-essay)
 - [Course Notes](#course-notes)
 
 ---
@@ -81,6 +80,8 @@ Summarized notes on:
 
 The following screenshot shows an example of executing a SQL query to list cities in Europe using MySQL Workbench:
 
-![Sample SQL Query](./SQL_sample.png)
+![Sample SQL Query](./SQL_sampleWork.png)
+
+![Sample SQL Query](./SQL_sampleW.png)
 
 This visual demonstrates the use of `JOIN`, `GROUP BY`, and filtering by continent within the world database.
